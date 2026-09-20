@@ -1,21 +1,110 @@
-The MIT License (MIT)
+CONTRAT DE LICENCE PROPRIÉTAIRE ET D'EXPLOITATION RESTREINTE
 
-Copyright (c) 2015-present 650 Industries, Inc. (aka Expo)
+(Contrat de licence pour l’utilisateur final et le code source)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Dénomination du Projet : MOLakisi AI
+
+Titulaire Exclusif des Droits : BADPEY BADPEY Alex (albad-lab)
+
+Droit d'Auteur / Copyright : © 2026 BADPEY BADPEY Alex. Tous droits réservés.
+
+
+
+-------------------------------------------------------------------------------
+
+1. PRÉAMBULE ET DÉFINITIONS
+
+-------------------------------------------------------------------------------
+
+Le présent Contrat de Licence (ci-après le "Contrat") régit l'accès, la consultation et l'utilisation du projet logiciel MOLakisi AI, incluant sans s'y limiter :
+
+a) Le code source et le code objet (TypeScript, C++, React Native, Python, SQL).
+
+b) L'architecture logicielle, les structures de données, schémas de bases de données (SQLite, SQLite-VSS).
+
+c) Les modules d'Intelligence Artificielle embarqués (poids des Small Language Models quantisés, pipelines STT/TTS Sherpa-ONNX/Whisper, bases vectorielles et corpus RAG).
+
+d) La documentation technique, interfaces graphiques (UI/UX), logos et éléments de marque.
+
+(Ci-après désignés collectivement le "Logiciel").
+
+
+
+-------------------------------------------------------------------------------
+
+2. NATURE DE LA PROPRIÉTÉ INTELLECTUELLE
+
+-------------------------------------------------------------------------------
+
+Le Logiciel constitue une œuvre originale protégée par les lois nationales relatives à la propriété intellectuelle, le Code de la Propriété Intellectuelle, ainsi que par les traités internationaux relatifs au droit d'auteur (notamment la Convention de Berne et les traités de l'Organisation Mondiale de la Propriété Intellectuelle - OMPI).
+
+
+
+Le Titulaire conserve la propriété exclusive, pleine et entière de l'ensemble des droits patrimoniaux et moraux afférents au Logiciel.
+Aucune disposition du présent Contrat ne saurait être interprétée comme un transfert, une cession ou une aliénation quelconque de droits de propriété intellectuelle au profit d'un tiers.
+
+
+
+-------------------------------------------------------------------------------
+
+3. RESTRICTIONS STRICTES D'UTILISATION ET D'EXPLOITATION
+
+-------------------------------------------------------------------------------
+
+La mise à disposition du code source sur un dépôt public ou privé (notamment GitHub) a pour unique objet la démonstration technique contrôlée.
+Sauf autorisation écrite, préalable et expresse du Titulaire, il est STRICTEMENT INTERDIT à tout individu, entreprise, institution publique ou organisation internationale de :
+
+
+
+3.1. Utilisation & Copie : Copier, dupliquer, reproduire, modifier, adapter, traduire ou créer des œuvres dérivées basées sur tout ou partie du Logiciel.
+
+3.2. Commercialisation & Distribution : Vendre, louer, prêter, sous-licencier, redistribuer, publier, diffuser ou transférer le Logiciel ou des composants de celui-ci à des tiers.
+
+3.3. Ingénierie Inverse & Extraction d'IA : Décompiler, désassembler, effectuer de l'ingénierie inverse (reverse engineering), extraire ou tenter de dériver le code source, les algorithmes, la structure des bases vectorielles RAG ou la logique des modèles d'IA embarqués.
+
+3.4. Entraînement de Modèles Tiers : Utiliser tout contenu, jeu de données, prompt ou architecture issu du Logiciel pour entraîner, affiner (fine-tune), évaluer ou développer des modèles d'intelligence artificielle concurrents.
+
+3.5.
+Exploitation Institutionnelle : Déployer, intégrer ou utiliser le Logiciel, directement ou indirectement, au sein d'établissements d'enseignement, de programmes gouvernementaux ou ministériels (notamment le Ministère de l'EPST), ou de projets financés par des organismes internationaux (notamment l'UNESCO, UNICEF, ONG), sans un contrat d'exploitation dument signé et acquitté.
+
+
+
+-------------------------------------------------------------------------------
+
+4. LICENCES COMMERCIALES ET PARTENARIATS
+
+-------------------------------------------------------------------------------
+
+Toute exploitation du Logiciel à des fins commerciales, industrielles, éducatives ou institutionnelles fait obligatoirement l'objet d'un Contrat d'Octroi de Licence Commerciale ou d'un Accord de Partenariat spécifique fixant la portée géographique, la durée, le volume de déploiement et les redevances (royalties) ou frais de licence applicables.
+
+
+
+Pour toute demande d'acquisition de licence, de partenariat ou de droits d'exploitation :
+
+Contact : contact@albad-lab.com | BADPEY MPUTU Alex
+
+
+
+-------------------------------------------------------------------------------
+
+5. EXCLUSION DE GARANTIE ET LIMITATION DE RESPONSABILITÉ
+
+-------------------------------------------------------------------------------
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT" ("AS IS"), SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE. LE TITULAIRE NE GARANTIT PAS QUE LE LOGICIEL EST EXEMPT D'ERREURS OU QUE SON FONCTIONNEMENT SERA ININTERROMPU.
+EN AUCUN CAS LE TITULAIRE NE POURRA ÊTRE TENU RESPONSABLE DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE OU SPÉCIAL DÉCOULANT DE L'UTILISATION OU DE L'INCAPACITÉ À UTILISER LE LOGICIEL.
+
+
+
+-------------------------------------------------------------------------------
+
+6. DROIT APPLICABLE ET JURIDICTION COMPÉTENTE
+
+-------------------------------------------------------------------------------
+
+Le présent Contrat est régi et interprété conformément au droit international de la propriété intellectuelle.
+Tout litige relatif à l'interprétation, l'exécution ou la violation du présent Contrat sera soumis à la juridiction exclusive des tribunaux compétents ou d'une instance d'arbitrage international reconnue, à la décision du Titulaire.
+
+

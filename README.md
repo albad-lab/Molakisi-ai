@@ -1,4 +1,4 @@
-🛠️ Documentation Technique : Phase I – Étape 1
+Documentation Technique : Phase I – Étape 1
 Projet : MOLakisi AI Tuteur Socratique Edge-AI pour l'EPST en RDC
 
 Auteur et responsable des droits d’auteur/IP : BADPEY BADPEY Alex ( albad-lab )
@@ -9,7 +9,7 @@ Environnement de Travail : WSL2 (Ubuntu) / VS Code — E:/Formation Dev IA ODC/P
 La Phase I (Architecture Core, Environnement & Configuration) pose les fondations logicielles, juridiques et structurelles du projet MOLakisi AI.
 L'Étape 1 (Initialisation du Projet & Dépendances Négatives) a pour rôle d'isoler l'environnement de développement, d'assurer le découplage strict du code source et de verrouiller le périmètre juridique et technique avant d'intégrer les modules lourds d'IA (poids de modèles SLM quantisés, moteurs RAG vectoriels et wrappers C++ natively linked).
 
-🎯 Objectifs Majeurs de l'Étape 1 :
+ Objectifs Majeurs de l'Étape 1 :
 
 1.	Définition de l'Identité de l'Application : Structuration du manifeste Expo (app.json) et du point d'entrée universel (index.ts / App.tsx).
 2.	Verrouillage de l'Arbre de Dépendances : Prévention absolue des dérives de versions (dependency drift) via un fichier package-lock.json v3 strict.
@@ -28,7 +28,7 @@ L'Étape 1 (Initialisation du Projet & Dépendances Négatives) a pour rôle d'i
   ├── 📄 package.json          <-- Déclarations des dépendances autorisées (TypeScript, Expo, Core UI)
   ├── 📄 package-lock.json     <-- Verrou d'intégrité & arbre de dépendances exact
   ├── 📄 tsconfig.json         <-- Compilateur TypeScript configuré en Mode Strict
-  ├── 📄 README.md         <-- 
+  ├── 📄 README.md             <-- Documentation technique et guide d'onboarding
   ├── 🔒 LICENSE               <-- Contrat de Licence Propriétaire Commerciale Fermée (albad-lab)
   ├── 🛑 .gitignore            <-- Filtre des dépendances négatives & exclusions d'artefacts/IA
   │
@@ -121,7 +121,7 @@ export interface Message {
 o	Vert Émeraude (primary) : #0D9488
 o	Bleu Nuit (secondary) : #1E3A8A
 o	Jaune Chaleureux (accent) : #F59E0B
-o	Fond Neutre (bgLight) : #F8FAFC
+gito	Fond Neutre (bgLight) : #F8FAFC
 
 
 ## 5. Matrice de Tests, Vérifications & Assurance Qualité
